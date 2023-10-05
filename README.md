@@ -10,7 +10,7 @@ Just a few steps to get you up and running with the project:
 
 1. **Clone** this repository.
 2. **Run** in the `jupiter notebook` or `colab notebook`.
-3. **import** all the `files `, `packeges` and `library`.
+3. **import** all the `files`, `packeges` and `libraries`.
 4. **Run** all the cell.
 
 ## Support
