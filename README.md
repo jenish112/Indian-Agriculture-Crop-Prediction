@@ -6,11 +6,13 @@ Welcome to **Indian-Agriculture-Crop-Prediction**! The main goal of this researc
 
 ## Getting Started
 
+`CSV file`: https://drive.google.com/file/d/185BmNq1Dbrl8Rls-UAhdy9JNuIT4jnyU/view?usp=drive_link
+
 Just a few steps to get you up and running with the project:
 
 1. **Clone** this repository.
-2. **Run** in the `jupiter notebook` or `colab notebook`.
-3. **import** all the `files`, `packeges` and `libraries`.
+2. **Run** in the `Jupiter notebook` or `collab notebook`.
+3. **import** all the `file`, `packages`, and `libraries`.
 4. **Run** all the cell.
 
 ## Support
